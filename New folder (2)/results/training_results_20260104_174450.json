@@ -1,0 +1,38 @@
+{
+  "Random Forest": {
+    "accuracy": 1.0,
+    "auc_score": 1.0,
+    "cv_mean": 1.0,
+    "cv_std": 0.0
+  },
+  "Gradient Boosting": {
+    "accuracy": 0.9977220956719818,
+    "auc_score": 0.9999792263907932,
+    "cv_mean": 0.992817679558011,
+    "cv_std": 0.002209944751381215
+  },
+  "Deep Neural Network": {
+    "accuracy": 1.0,
+    "auc_score": 1.0,
+    "cv_mean": 0.9955801104972375,
+    "cv_std": 0.004134428051683903
+  },
+  "SVM (RBF)": {
+    "accuracy": 0.9908883826879271,
+    "auc_score": 1.0,
+    "cv_mean": 0.9911602209944752,
+    "cv_std": 0.004752665893393689
+  },
+  "Logistic Regression": {
+    "accuracy": 0.8496583143507973,
+    "auc_score": 0.9346254518260003,
+    "cv_mean": 0.8591160220994475,
+    "cv_std": 0.007203538569284692
+  },
+  "Ensemble": {
+    "accuracy": 1.0,
+    "auc_score": 1.0,
+    "cv_mean": 0.9994475138121548,
+    "cv_std": 0.0011049723756906271
+  }
+}

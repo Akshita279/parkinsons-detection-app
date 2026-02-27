@@ -27,7 +27,3 @@ logs/
 # OS
 .DS_Store
 Thumbs.db
-
-# Temporary folders
-New folder/
-New folder (2)/

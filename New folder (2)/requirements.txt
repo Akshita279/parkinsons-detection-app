@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+streamlit
+librosa
+soundfile
+pydub
+shap
+imblearn
+matplotlib
+seaborn
+requests
+pathlib
