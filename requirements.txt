@@ -1,6 +1,23 @@
+# Core ML & Data
 pandas
 numpy
 scikit-learn
-tensorflow-cpu
 matplotlib
 seaborn
+
+# Deep Learning (CPU version — lighter install)
+tensorflow-cpu
+
+# Web App
+streamlit
+
+# Audio Processing (for voice upload feature)
+librosa
+soundfile
+pydub
+
+# Explainability
+shap
+
+# Data Balancing
+imbalanced-learn
